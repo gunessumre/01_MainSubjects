@@ -8,9 +8,8 @@ using System.Text;
 //DERS 1 NOTLARI
 
 
-// bu using ifadeler kullanicagimiz kodlara ait kutuphaneleri tutuyor. bu sekilde kutuphanlere ayrilmasinin sebebi 
-//programlama da her birkod bir kutuphaneye aittir. yazilim dunyasi neye ihtiyacin varsa onu kullanicagin zaman
-//onu buraya dahil edicem. hepsini tek baslik altinda toplamak karmasa yaratabilir 
+// bu using ifadeler kullanicagimiz kodlara ait kutuphaneleri tutuyor. bu sekilde kutuphanelere ayrilmasinin sebebi 
+//programlama da her birkod bir kutuphaneye aittir.hepsini tek baslik altinda toplamak karmasa yaratabilir 
 
 namespace _01_MainSubjects
 {
@@ -22,12 +21,12 @@ namespace _01_MainSubjects
             //burasi komutlarimizin yazildigi yerdir main metodunun icine yazilir 
             //amacimiz ekrana yaziyazdirmak bunun icin;
             // Console.WriteLine("Hello World!"); 
-            // //bir yapinin metot oldugunu anlamak icin yazarken sol tarafinda cikan mor bir kup vardir
-            // //bu onun metot oldugu anlamina gelir
-            // Console.Read();// read metodu ekranin beklemesini saglamak icin kullanilir enter tusuna basana kadar ekrani bekleticek
-            // //olan koddur 
+            //bir yapinin metot oldugunu anlamak icin yazarken sol tarafinda cikan mor bir kup vardir
+            // bu onun metot oldugu anlamina gelir
+            // Console.Read(); // read metodu ekranin beklemesini saglamak icin kullanilir enter tusuna basana kadar ekrani bekleticek
+            // olan koddur 
 
-            #region YAZDIRMAKOMUTLARI
+            #region YAZDIRMA KOMUTLARI
 // YAZDIRMA KOMUTLARI 
             // Console.WriteLine(""); // bir deger yazar sonra imleci bir alt satira yazar 
             // Console.Write(""); // write ifadesi bir yaziyi yazdigi zaman o yaziyi en saga atar
