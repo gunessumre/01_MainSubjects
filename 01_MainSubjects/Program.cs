@@ -51,12 +51,12 @@ namespace _01_MainSubjects
             //  string name;
             //  name = "Umre";
             //  Console.Write(name); // name'i ("name") seklinde yazmiyorum cift tirnak icinde yazarsak bize
-            //  // ekrana direk name yazar ama bizim istedigimiz name degerinin karisligini yazmasi 
+            //  // ekrana direkt name yazar ama bizim istedigimiz name degerinin karisligini yazmasidir 
             //
             //  String customerName;
             //  String customerSurname;
             //  String customerEmail;
-            //  //degisken adllandirilirken araya bosluk konulmaz.
+            //  degisken adllandirilirken araya bosluk konulmaz.
             //  String customerAddress;
             //  String customerPhone, district, city; // bir satirda ayni turde birden fazla degisken tanimlanabiliyor
             //  
@@ -79,7 +79,7 @@ namespace _01_MainSubjects
             // customerName = "Emir";
             // Console.WriteLine(customerName);
             // /*bu sekilde once umre nin musteri bilgilerini girer sonra Emirin adini yazdirir cunku
-            //  programlamada hiyerarsik bir  atama siralamasi vardir. yukaridan baslar  asagiya dogru
+            //  programlamada hiyerarsik bir  atama siralamasi vardir. yukaridan baslar asagiya dogru
             //  giderek okur.*/
             //
             // customerSurname = "Terzi";
